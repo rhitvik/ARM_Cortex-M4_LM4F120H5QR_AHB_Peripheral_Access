@@ -1,0 +1,1 @@
+The EK-TM4C123GXL Design Package was created using Mentor PADS version 9.3

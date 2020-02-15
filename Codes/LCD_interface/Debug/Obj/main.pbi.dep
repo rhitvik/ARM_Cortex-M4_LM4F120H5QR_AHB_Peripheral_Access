@@ -1,0 +1,5 @@
+main.pbi: \
+  C:\Users\Amogue\Documents\Embedded_Programming\Project_PLC_LCD_interface\main.c \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdbool.h \
+  C:\Users\Amogue\Documents\Embedded_Programming\Project_PLC_LCD_interface/lm4f120h5qr.h \
+  C:\Users\Amogue\Documents\Embedded_Programming\Project_PLC_LCD_interface/delay.h
